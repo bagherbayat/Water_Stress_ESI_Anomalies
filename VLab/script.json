@@ -6,8 +6,8 @@
       "pathType": "FILE"
  },
     {
-      "repoPath": "EDI_Values_Workflow_VLab.R",
-      "targetPath": "EDI_Values_Workflow_VLab.R",
+      "repoPath": "ESI_Anomalies_Workflow_VLab.R",
+      "targetPath": "ESI_Anomalies_Workflow_VLab.R",
       "pathType": "FILE"
  }
   ]
