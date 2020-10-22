@@ -1,5 +1,5 @@
-### EDI_Values_Workflow:
-#This workflow quantifies one decade of (agricultural) water stress levels across Europe using satellite-derived Evapotranspiration (ET) data sets and Evaporative Drought Index (EDI) values
+### ESI_Anomalies_Workflow:
+#This workflow quantifies one decade of (agricultural) water stress levels across Europe using satellite-derived Evapotraspiration (ET) data sets and Evaporative Stress Index (ESI) anomalies.
 
 ##Authors: Bagher Bayat (b.bayat@fz-juelich.de and bagher.bayat@gmail.com) and Carsten Montzka (c.montzka@fz-juelich.de)
 #Institute of Bio- and Geosciences: Agrosphere (IBG-3), Forschungszentrum Jülich GmbH, 52425 Jülich, Germany
@@ -24,5 +24,5 @@
 #SDG 6.4 (indicator 6.4.2: Levels of water stress)
 #This workflow is developed within the European Commission HORIZON 2020 Program ERA-PLANET/GEOEssential project [grant number: 689443].
 
-## Main reference:
-#(Yao et al., 2010)
+# Main references:
+#(Anderson et al., 2016, 2010)
